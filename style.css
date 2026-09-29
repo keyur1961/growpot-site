@@ -38,3 +38,8 @@ li{margin:.25em 0}
 .site-footer .disclosure{color:var(--text)}
 .small{font-size:.82rem}
 @media (max-width:520px){body{font-size:16px}h1{font-size:1.6rem}nav a{margin-left:12px}}
+a.aff{color:#1d6b2a;font-weight:600;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}
+.aff-note{background:#f4f8f1;border-left-color:#9cc48e;padding:8px 12px}
+.buybox{margin-top:36px;background:#f4f8f1;border:1px solid #cfe3c6;border-radius:12px;padding:6px 20px 12px}
+.buybox h2{margin-top:.8em}
+.buybox ul{padding-left:1.2em}
