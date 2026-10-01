@@ -43,3 +43,5 @@ a.aff{color:#1d6b2a;font-weight:600;text-decoration:underline;text-decoration-th
 .buybox{margin-top:36px;background:#f4f8f1;border:1px solid #cfe3c6;border-radius:12px;padding:6px 20px 12px}
 .buybox h2{margin-top:.8em}
 .buybox ul{padding-left:1.2em}
+.related{margin-top:28px;padding:6px 20px 10px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.related h2{margin-top:.8em;font-size:1.15rem}
